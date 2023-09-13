@@ -1,6 +1,7 @@
 # UnityJuniorProgrammer_PatikaDev
 PatikaDev eğitim platformunda Unity Junior Programmer eğitiminde yapılan ilk projeyi içerir.
 Prototype 1 de öğrenilen konular:
+     
      *oyuncu kontroller 
      *kamera takip öğrenildi. 
 
